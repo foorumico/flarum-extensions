@@ -1,0 +1,11 @@
+{
+    "name": "foorumico/flarum-extensions",
+    "description": "Foorumi.co palvelun käyttämät Flarum lisäosat.",
+    "require": {
+        "flarum-lang/finnish": "1.2.0",
+        "fof/upload": "1.2.3",
+        "fof/formatting": "1.0.2",
+        "fof/links": "1.1.1",
+        "fof/polls": "1.1.0"
+    }
+}
